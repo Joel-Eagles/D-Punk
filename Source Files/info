@@ -1,0 +1,375 @@
+{
+  "uuid": "1838d2fce1ef723156773567fb409748",
+  "path": "Offline/DPUNK_Sharable",
+  "name": "DPUNK_Sharable",
+  "content": "",
+  "created_at": "2023-12-09 11:16:41",
+  "updated_at": "2023-12-09 11:17:12",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "b6cf4d81bbdb2034f30c73221d0eb5dd",
+      "title": "Dpunk 4 schematic copy",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "d1967012734640e5b2f2cc1ea764740b": 27,
+        "eb4b9aee9bd548aaa0d8f2be9fe0b10f": 24,
+        "7415ddb9e73b4c299a9282873248f379": 25,
+        "e0b0d01b6e0d44dbab9db0ad79a427bc": 3,
+        "24eeb2ceca08480b92b847b6a310acda": 2,
+        "8850ffcdb9d242a1b431d4a3e2209db1": 1,
+        "d9035e4eadff4d9d8c3e66e03fa1d593": 1,
+        "24a7d78ffba04d738ac72187b86dabf6": 1,
+        "90dccfed5b88494299de05982dc0bca2": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "9v battery connector",
+          1,
+          "9V BATTERY",
+          "9V",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier": "",
+            "Supplier Part": "",
+            "link": "",
+            "Contributor": "joeleagles",
+            "spiceSymbolName": "9v battery connector",
+            "Package Display": "Yes",
+            "puuid": "ccb0f5affcf548a9b322e24ed8f03a91",
+            "uuid": "24a7d78ffba04d738ac72187b86dabf6"
+          }
+        ],
+        [
+          "Audio",
+          1,
+          "AUDIO-JACK-1",
+          "AUX",
+          {
+            "Manufacturer": "ADAM TECH",
+            "Contributor": "Luis Garbanzo",
+            "spiceSymbolName": "ASJ-99H-R-HT-T/R",
+            "Manufacturer Part": "",
+            "Package Display": "No",
+            "puuid": "ab31086b3c9943409ab6584506af650e",
+            "uuid": "d9035e4eadff4d9d8c3e66e03fa1d593"
+          }
+        ],
+        [
+          ".01u",
+          2,
+          "CERAMIC CAPACITOR",
+          "C1,C2",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "C_0603_US",
+            "Manufacturer Part": "",
+            "puuid": "c55219a5c5d64ea9a2f1b3bed8243870",
+            "uuid": "24eeb2ceca08480b92b847b6a310acda"
+          }
+        ],
+        [
+          "DIP1",
+          1,
+          "78J02T INVIS",
+          "DIP1",
+          {
+            "Manufacturer": "Grayhill",
+            "Manufacturer Part": "78J02T",
+            "Supplier": "Mouser",
+            "Supplier Part": "706-78J02T",
+            "link": "https://eu.mouser.com/ProductDetail/Grayhill/78J02T?qs=ls7QRyWmRk5lRQ%252bisZPK0A%3D%3D",
+            "Contributor": "megagulper1",
+            "spiceSymbolName": "78J02T",
+            "puuid": "bfec7cf09b364db3988f997849c0b02e",
+            "uuid": "90dccfed5b88494299de05982dc0bca2"
+          }
+        ],
+        [
+          "LED",
+          1,
+          "LED-TH_BD5.0_RED",
+          "LED",
+          {
+            "Manufacturer": "EVERLIGHT(台湾亿光)",
+            "Manufacturer Part": "333-2SURD/S530-A3",
+            "Supplier Part": "C87271",
+            "Supplier": "LCSC",
+            "link": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "LED-TH-5mm_R",
+            "Package Display": "No",
+            "puuid": "ce0ed154d45b41508e0debca8473ba07",
+            "uuid": "8850ffcdb9d242a1b431d4a3e2209db1"
+          }
+        ],
+        [
+          "3904",
+          25,
+          "2NBJT",
+          "Q1,Q2,Q7,Q8,Q9,Q10,Q18,Q20,Q21,Q22,Q23,Q24,Q26,Q27,Q28,Q29,Q31,Q32,Q33,Q34,Q35,Q45,Q46,Q47,Q48",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "SEMTECH",
+            "Manufacturer Part": "2N3904",
+            "Supplier Part": "C118538",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "2N3904(TO-92)",
+            "puuid": "471292ef1bba490599f8d6d6578898cd",
+            "uuid": "7415ddb9e73b4c299a9282873248f379"
+          }
+        ],
+        [
+          "3906",
+          24,
+          "2NBJT",
+          "Q3,Q4,Q5,Q6,Q11,Q12,Q13,Q14,Q15,Q16,Q17,Q19,Q25,Q30,Q36,Q38,Q39,Q40,Q41,Q42,Q43,Q44,Q49,Q51",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "CJ",
+            "Manufacturer Part": "2N3906",
+            "Supplier Part": "C9809",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "2N3906(TO-92)",
+            "puuid": "471292ef1bba490599f8d6d6578898cd",
+            "uuid": "eb4b9aee9bd548aaa0d8f2be9fe0b10f"
+          }
+        ],
+        [
+          "4k7",
+          11,
+          "R_AXIAL-0.4",
+          "R1,R3,R6,R7,R10,R13,R14,R22,R25,R32,R34",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "820",
+          2,
+          "R_AXIAL-0.4",
+          "R2,R33",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "10k",
+          2,
+          "R_AXIAL-0.4",
+          "R4,R31",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "330",
+          1,
+          "R_AXIAL-0.4",
+          "R5",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "1k",
+          2,
+          "R_AXIAL-0.4",
+          "R8,R35",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "100k",
+          2,
+          "R_AXIAL-0.4",
+          "R9,R26",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "15k",
+          2,
+          "R_AXIAL-0.4",
+          "R11,R24",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "6k8",
+          2,
+          "R_AXIAL-0.4",
+          "R12,R23",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "220",
+          1,
+          "R_AXIAL-0.4",
+          "R20",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "12k",
+          2,
+          "R_AXIAL-0.4",
+          "R36,R37",
+          {
+            "Supplier Part": "",
+            "Supplier": "",
+            "Contributor": "LCEDA_Lib",
+            "spiceSymbolName": "R_AXIAL-0.4_US",
+            "Manufacturer Part": "",
+            "puuid": "5905db98cde4487fbb177070aa85bbe1",
+            "uuid": "d1967012734640e5b2f2cc1ea764740b"
+          }
+        ],
+        [
+          "25k",
+          1,
+          "PTA3043",
+          "SLIDE",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "value(Ω)": "10K",
+            "spiceSymbolName": "R_3386P_US",
+            "puuid": "8f40613dd001401ca8a60f894ba33478",
+            "uuid": "e0b0d01b6e0d44dbab9db0ad79a427bc"
+          }
+        ],
+        [
+          "500k",
+          2,
+          "ADAFRUIT POTENTIOMETER",
+          "VR1,VR2",
+          {
+            "Supplier Part": "",
+            "Supplier": "LCSC",
+            "Manufacturer Part": "",
+            "Contributor": "LCEDA_Lib",
+            "value(Ω)": "10K",
+            "spiceSymbolName": "R_3386P_US",
+            "puuid": "37bd99b1ea0b45a290c6ae81f2bae5ae",
+            "uuid": "e0b0d01b6e0d44dbab9db0ad79a427bc"
+          }
+        ]
+      ],
+      "updateTime": 1702142212,
+      "createTime": 1702142212,
+      "histories": [],
+      "created_at": "2023-12-09 11:16:52",
+      "updated_at": "2023-12-09 11:16:52"
+    },
+    {
+      "uuid": "23ba174aab857242784841991b5550a8",
+      "puuid": "fdab9f9bc8a033cc7c2e657397c8d9b8",
+      "title": "PCB_DPUNK",
+      "filename": "PCB_DPUNK.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "bfec7cf09b364db3988f997849c0b02e": 1,
+        "37bd99b1ea0b45a290c6ae81f2bae5ae": 2,
+        "471292ef1bba490599f8d6d6578898cd": 49,
+        "5905db98cde4487fbb177070aa85bbe1": 27,
+        "8f40613dd001401ca8a60f894ba33478": 1,
+        "c55219a5c5d64ea9a2f1b3bed8243870": 2,
+        "ccb0f5affcf548a9b322e24ed8f03a91": 1,
+        "ab31086b3c9943409ab6584506af650e": 1,
+        "ce0ed154d45b41508e0debca8473ba07": 1
+      },
+      "BOM": [],
+      "updateTime": 1702142225,
+      "createTime": 1702142225,
+      "histories": [],
+      "created_at": "2023-12-09 11:17:05",
+      "updated_at": "2023-12-09 11:17:05"
+    }
+  ],
+  "sort": [
+    "b6cf4d81bbdb2034f30c73221d0eb5dd"
+  ],
+  "title": "DPUNK_Sharable",
+  "foldername": "DPUNK_Sharable",
+  "schfilename": "DPUNK_Sharable.json",
+  "schfilemtime": 1702142212375
+}
