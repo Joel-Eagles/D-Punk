@@ -3,6 +3,7 @@ This is a re-creation of the famous "Atari Punk Console" redesigned not to use a
 The provided Source files are from EasyEDA if you want to explore the design.
 
 **ORDERING**
+
 If you want to order a kit from me I have a Tindie store with more details: https://www.tindie.com/products/32754/
 
 if you would like to save some money, you can order all of the components from the BOM yourself from Digikey and Mouser, and order the board from PCBWay with a HASL finish. My kits come with an ENIG finish (gold plating) which is more expensive.
