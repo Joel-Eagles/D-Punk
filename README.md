@@ -4,6 +4,8 @@ The provided Source files are from EasyEDA if you want to explore the design.
 
 [Bill Of Materials](https://docs.google.com/spreadsheets/d/1dyHuRz6UDlPFIbznFr0YcmT9FW4Ud_Ig5CGMj__QOnU/edit?usp=sharing)
 
+[Instruction Manual/Book](https://docs.google.com/document/d/1hWtP_Fo6COp-s8dPCjIPYWzgCmSzLlZaqkfR4AeezoE/edit?usp=sharing)
+
 **ORDERING**
 
 If you want to order a kit from me I have a Tindie store with more details: https://www.tindie.com/products/32754/
